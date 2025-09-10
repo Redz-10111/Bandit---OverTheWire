@@ -1,6 +1,6 @@
 
-![Bandit Image](../../Imagenes/level-0-1.png)
 
+![[Lolo_Apuntes/Imagenes/level-0-1.png]]
 
 # Always set when connecting to a machine via SSH: `export TERM=xterm`
 
