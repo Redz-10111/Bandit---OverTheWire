@@ -43,13 +43,6 @@ Aprender a conectarse a un servidor remoto de forma segura con **SSH**, usando u
 
 ## `ping -c 1 bandit.labs.overthewire.org`
 
-# {Salida}
-
-## `PING otw.cracksucht.de (176.9.9.172) 56(84) bytes of data. 
-## `64 bytes from 176.9.9.172: icmp_seq=1 ttl=51 time=65.1 ms
-## `--- otw.cracksucht.de ping statistics ---
-## `1 packets transmitted, 1 received, 0% packet loss, time 0ms`
-
 
 # {Desglose del comando}
 
