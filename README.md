@@ -5,8 +5,8 @@ Personal notes and solutions for the Bandit wargame from OverTheWire. A step-by-
 
 ## 📑 Index of Levels
 
-- 🔓 [Level 0-1](Lolo_Apuntes/Linux/Bandit/Level%200.md)
-- 🔑 [Level 1-2](Lolo_Apuntes/Linux/Bandit/Level%201.md)
+- 🔐 [Level 0-1](Level%200-1.md)
+- 🔑 [Level 1-2](Level%201-2.md)
 - 📂 [Level 2-3](Lolo_Apuntes/Linux/Bandit/Level%202-3.md)
 - 📄 [Level 3-4](Lolo_Apuntes/Linux/Bandit/Level%203-4.md)
 - 🗝️ [Level 4-5](Lolo_Apuntes/Linux/Bandit/Level%204-5.md)
