@@ -67,9 +67,6 @@ Usar `ping` es como tocar el timbre de una casa: si responde, sabemos que hay al
 
 ## `ssh bandit0@bandit.labs.overthewire.org -p 2220`
 
-# {Salida}
-
-## `The authenticity of host '[bandit.labs.overthewire.org]:2220' can't be established. ED25519 key fingerprint is SHA256:... Are you sure you want to continue connecting (yes/no/[fingerprint])? yes`
 
 # {Desglose del comando}
 
