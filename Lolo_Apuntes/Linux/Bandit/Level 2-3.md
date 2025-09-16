@@ -34,7 +34,7 @@ caracteres de escape (`\` ) o comodines (`*`).
 
 ## `-rw-r----- 1 bandit3 bandit2 33 May  7  2020 spaces in this filename`
 
-💬 \Tag{Comentario del profe}  
+## 💬{Comentario del profe}  
 El archivo se llama con espacios, así que si lo escribimos tal cual, dará error.
 
 ---
